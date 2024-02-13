@@ -1,0 +1,17 @@
+.pic{
+    margin: auto;
+    width: 70%;
+
+}
+
+.pic img{
+    width: 400px;
+    height: 400px;
+
+    margin: auto;
+    
+}
+
+body{
+    background-color: bisque;
+}
