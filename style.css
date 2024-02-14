@@ -16,11 +16,3 @@ body{
     background-color: blue;
     
 }
-.leftAlignedImage {
-    display: block;
-    float:left;
-    max-width: 100%;
-    height: auto;
-    margin-left: 0;
-    margin-right: 200px;
-}
