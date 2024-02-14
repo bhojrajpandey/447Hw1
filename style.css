@@ -20,5 +20,6 @@ body{
     display: block;
     max-width: 100%;
     height: auto;
+    margin-left: 0;
     margin-right: auto;
 }
